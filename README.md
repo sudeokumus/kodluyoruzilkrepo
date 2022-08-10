@@ -30,4 +30,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ![github](https://github.com/sudeokumus/kodluyoruzilkrepo/blob/main/images/github.png)
 
 
+## Link
+[patika.dev](www.patika.dev)
+
+
 
