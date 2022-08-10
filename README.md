@@ -27,7 +27,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## Project Preview
-![github](images/github.png)
+![github](https://github.com/sudeokumus/kodluyoruzilkrepo/blob/main/images/github.png)
 
 
 
