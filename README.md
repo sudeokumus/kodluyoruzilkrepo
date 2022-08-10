@@ -31,7 +31,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## Link
-[patika.dev](www.patika.dev)
+[patika.dev](https://www.patika.dev/tr)
 
 
 
